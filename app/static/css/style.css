@@ -1,0 +1,168 @@
+/* body {
+    font-family: Arial, sans-serif;
+    background-color: #f4f4f4;
+    margin: 0;
+    padding: 0;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+}
+
+.container {
+    text-align: center;
+}
+
+img {
+    max-width: 100%;
+    height: auto;
+    border: 2px solid #333;
+    border-radius: 8px;
+    margin-top: 20px;
+}
+
+h1 {
+    color: #333;
+}
+
+input[type="file"] {
+    display: none;
+}
+
+label {
+    background-color: #4caf50;
+    color: white;
+    padding: 10px 15px;
+    cursor: pointer;
+    border-radius: 5px;
+    font-size: 16px;
+    margin-top: 20px;
+}
+
+#result {
+    margin-top: 20px;
+    font-size: 18px;
+    color: #333;
+}
+img{
+    width: 400px;
+    display: block;
+} */
+
+body {
+  margin: 0;
+  padding: 0;
+  font-family: "Arial", sans-serif;
+  background: linear-gradient(
+    to right,
+    #3498db,
+    #2c3e50
+  ); /* Adjust colors as needed */
+  color: #fff; /* Text color on the gradient background */
+  height: 100vh; /* Make the background cover the entire viewport height */
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.container {
+  max-width: 600px;
+  margin: 50px auto;
+  background-color: #fff;
+  padding: 20px;
+  border-radius: 10px;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+h1,
+h2 {
+  color: #333;
+}
+
+form {
+  margin-top: 20px;
+}
+
+label {
+  font-size: 16px;
+  color: #555;
+}
+
+input {
+  margin-top: 5px;
+  padding: 10px;
+  width: 100%;
+  box-sizing: border-box;
+}
+
+button {
+  background-color: #3498db;
+  color: #fff;
+  padding: 10px 20px;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+}
+
+button:hover {
+  background-color: #2980b9;
+}
+
+.result-container {
+  margin-top: 20px;
+}
+
+img {
+  max-width: 400px;
+  height: auto;
+  border-radius: 5px;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+body {
+  margin: 0;
+  padding: 0;
+  font-family: "Arial", sans-serif;
+  background: linear-gradient(to right, #ff9a9e, #fecfef);
+  /* Gradient background */
+  color: #333;
+  /* Text color on the gradient background */
+  height: 100vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+}
+
+h1 {
+  font-size: 3em;
+  margin-bottom: 20px;
+  color: #ff6b6b;
+  /* Heading color */
+}
+
+p {
+  font-size: 1.5em;
+  color: #636e72;
+  /* Paragraph text color */
+}
+
+button {
+  padding: 15px 30px;
+  font-size: 1.2em;
+  background-color: #74b9ff;
+  /* Button color */
+  color: #fff;
+  /* Button text color */
+  border: none;
+  border-radius: 5px;
+  margin-top: 20px;
+  cursor: pointer;
+  transition: background-color 0.3s ease;
+}
+
+button:hover {
+  background-color: #0984e3;
+  /* Button color on hover */
+}
