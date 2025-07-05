@@ -69,8 +69,8 @@ emotion-detection-app/
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/yourusername/emotion-detection-app.git
-cd emotion-detection-app
+git clone https://github.com/Raviteja0405/EmotionDetectionSystem.git
+cd EmotionDetectionSystem
 ````
 
 ### 2. (Optional but recommended) Create and activate a virtual environment
