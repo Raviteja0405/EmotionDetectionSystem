@@ -1,54 +1,3 @@
-/* body {
-    font-family: Arial, sans-serif;
-    background-color: #f4f4f4;
-    margin: 0;
-    padding: 0;
-    display: flex;
-    align-items: center;
-    justify-content: center;
-    height: 100vh;
-}
-
-.container {
-    text-align: center;
-}
-
-img {
-    max-width: 100%;
-    height: auto;
-    border: 2px solid #333;
-    border-radius: 8px;
-    margin-top: 20px;
-}
-
-h1 {
-    color: #333;
-}
-
-input[type="file"] {
-    display: none;
-}
-
-label {
-    background-color: #4caf50;
-    color: white;
-    padding: 10px 15px;
-    cursor: pointer;
-    border-radius: 5px;
-    font-size: 16px;
-    margin-top: 20px;
-}
-
-#result {
-    margin-top: 20px;
-    font-size: 18px;
-    color: #333;
-}
-img{
-    width: 400px;
-    display: block;
-} */
-
 body {
   margin: 0;
   padding: 0;
@@ -57,9 +6,9 @@ body {
     to right,
     #3498db,
     #2c3e50
-  ); /* Adjust colors as needed */
-  color: #fff; /* Text color on the gradient background */
-  height: 100vh; /* Make the background cover the entire viewport height */
+  );
+  color: #fff; 
+  height: 100vh;
   display: flex;
   flex-direction: column;
   justify-content: center;
