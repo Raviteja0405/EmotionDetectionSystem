@@ -7,11 +7,11 @@ This is a Flask-based web application that detects **human emotions** from image
 ## 📷 Demo
 
 <p align="center">
-  <img src="https://i.postimg.cc/xTg9VZNB/Screenshot-2025-07-05-122327.png" alt="Upload Page Screenshot" style="max-width:100%; height:auto;" />
+  <img src="https://private-user-images.githubusercontent.com/125200085/462737037-f37972b5-9b8b-4031-96a0-c1f57d74caac.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NTE2OTk1MTQsIm5iZiI6MTc1MTY5OTIxNCwicGF0aCI6Ii8xMjUyMDAwODUvNDYyNzM3MDM3LWYzNzk3MmI1LTliOGItNDAzMS05NmEwLWMxZjU3ZDc0Y2FhYy5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjUwNzA1JTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI1MDcwNVQwNzA2NTRaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT00ZTRmOTQyZmFiNDJhOWRhMmI4YjdhMzk5NDFkYWRmZWNlZmViNjYzMzc5Mjg5M2UyMGQ2NmVmZjMwYTE0ODE5JlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCJ9.jQApoZUv5Z6JJ6Dt8DVMYVoJkqJQcz38M2txoiq4lfs" alt="Upload Page Screenshot" style="max-width:100%; height:auto;" />
 </p>
 
 <p align="center">
-  <img src="https://i.postimg.cc/Jh5qpj23/Screenshot-2025-07-05-123206.png" alt="Result Page Screenshot" style="max-width:100%; height:auto;" />
+  <img src="https://private-user-images.githubusercontent.com/125200085/462737052-665c3ca5-8fa9-4430-807a-3511a2918738.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NTE2OTk1MTQsIm5iZiI6MTc1MTY5OTIxNCwicGF0aCI6Ii8xMjUyMDAwODUvNDYyNzM3MDUyLTY2NWMzY2E1LThmYTktNDQzMC04MDdhLTM1MTFhMjkxODczOC5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjUwNzA1JTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI1MDcwNVQwNzA2NTRaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT0xNTNhOGYwYTljZjZjYjEwMzM3YjVlOTdiNTM3ZDljNTc1M2IwYjIwNWEyNzBkMDEyOTVjOGUzY2NiZDVlYjAxJlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCJ9.dLyS7bZZRWXLGftoRKUMQcB9lKcKwQ739SmbKaUBH7E" alt="Result Page Screenshot" style="max-width:100%; height:auto;" />
 </p>
 
 ---
